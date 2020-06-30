@@ -1,0 +1,10 @@
+C:\Users\Francisco Kun\source\repos\PruebaPizza\PruebaPizza\bin\Debug\PruebaPizza.exe.config
+C:\Users\Francisco Kun\source\repos\PruebaPizza\PruebaPizza\bin\Debug\PruebaPizza.exe
+C:\Users\Francisco Kun\source\repos\PruebaPizza\PruebaPizza\bin\Debug\PruebaPizza.pdb
+C:\Users\Francisco Kun\source\repos\PruebaPizza\PruebaPizza\obj\Debug\PruebaPizza.csprojAssemblyReference.cache
+C:\Users\Francisco Kun\source\repos\PruebaPizza\PruebaPizza\obj\Debug\PruebaPizza.Form1.resources
+C:\Users\Francisco Kun\source\repos\PruebaPizza\PruebaPizza\obj\Debug\PruebaPizza.Properties.Resources.resources
+C:\Users\Francisco Kun\source\repos\PruebaPizza\PruebaPizza\obj\Debug\PruebaPizza.csproj.GenerateResource.cache
+C:\Users\Francisco Kun\source\repos\PruebaPizza\PruebaPizza\obj\Debug\PruebaPizza.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Kun\source\repos\PruebaPizza\PruebaPizza\obj\Debug\PruebaPizza.exe
+C:\Users\Francisco Kun\source\repos\PruebaPizza\PruebaPizza\obj\Debug\PruebaPizza.pdb
